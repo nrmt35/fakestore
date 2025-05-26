@@ -1,0 +1,18 @@
+{
+  "login": "Login",
+  "welcomeText": "Welcome back! Glad to see you, Again!",
+  "usernameHint": "Enter your username",
+  "passwordHint": "Enter your username",
+  "welcome": "Welcome",
+  "appName": "Fake Store",
+  "reviews": "Reviews",
+  "addToCart": "Add to cart",
+  "price": "price",
+  "cartTotal": "Cart total",
+  "logout": "Log out",
+  "checkout": "Checkout",
+  "wishlist": "Wishlist",
+  "fieldRequired": "This field is required",
+  "alreadyInCart": "Already in cart",
+  "cart": "Cart"
+}

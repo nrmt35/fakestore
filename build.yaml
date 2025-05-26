@@ -1,0 +1,9 @@
+targets:
+  $default:
+    builders:
+      slang_build_runner:
+        options:
+          base_locale: en
+          contexts:
+            Enum$Sex:
+              generate_enum: false

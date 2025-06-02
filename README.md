@@ -1,4 +1,4 @@
-fakestore - Nurmyrat Gulam
+fakestore
 A new Flutter project.
 
 Getting Started
